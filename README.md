@@ -81,17 +81,81 @@ Data Structures & Algorithms, System Design, and the craft of building products 
   <img src="https://ghchart.rshah.org/99755d/aashishjaiswal1103" width="1200" alt="Aashish's GitHub Contribution Graph" />
 </p>
 
-<br/>
 
-<p align="center"><i>Stats & Languages</i></p>
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aashishjaiswal1103&show_icons=true&hide_border=true&hide_title=true&bg_color=2d211d&title_color=d8b4fe&icon_color=cbbba6&text_color=f4f1ec&ring_color=99755d" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishjaiswal1103&layout=compact&hide_border=true&hide_title=true&bg_color=2d211d&title_color=d8b4fe&text_color=f4f1ec&langs_count=8" alt="Top Languages"/>
-</p>
-
-<br/>
 
 <p align="center"><i>Streak</i></p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aashishjaiswal1103&hide_border=true&background=2d211d&ring=99755d&fire=d8b4fe&currStreakLabel=f4f1ec&sideLabels=f4f1ec&currStreakNum=f4f1ec&sideNums=f4f1ec&dates=cbbba6&stroke=2d211d" alt="GitHub Streak"/>
 </p>
+<h2 align="center">FEATURED PROJECTS</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d211d,100:2d211d&height=2&width=900" />
+</p>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Recruiter-X</h3>
+      <p>AI-driven recruitment platform streamlining candidate screening and hiring workflows.</p>
+      <a href="https://github.com/aashishjaiswal1103/Recruiter-X">
+        <img src="https://img.shields.io/badge/View%20Repository-2d211d?style=plastic&logo=github&logoColor=f4f1ec" height="30"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Schedule Tracker</h3>
+      <p>A productivity tool for tracking and managing daily schedules efficiently.</p>
+      <a href="https://github.com/aashishjaiswal1103/schedule-tracker-">
+        <img src="https://img.shields.io/badge/View%20Repository-554239?style=plastic&logo=github&logoColor=f4f1ec" height="30"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:684f44,100:684f44&height=1&width=900" /></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Pose Perfect Yoga</h3>
+      <p>AI-powered yoga pose detection and correction application.</p>
+      <a href="https://github.com/aashishjaiswal1103/pose-perfect-yoga-">
+        <img src="https://img.shields.io/badge/View%20Repository-684f44?style=plastic&logo=github&logoColor=f4f1ec" height="30"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Seon</h3>
+      <p>A project focused on building practical, real-world solutions.</p>
+      <a href="https://github.com/aashishjaiswal1103/seon">
+        <img src="https://img.shields.io/badge/View%20Repository-7f604f?style=plastic&logo=github&logoColor=f4f1ec" height="30"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<h2 align="center">CONNECT WITH ME</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d211d,100:2d211d&height=2&width=900" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aashish-jaiswal1103">
+    <img src="https://img.shields.io/badge/LinkedIn-2d211d?style=plastic&logo=linkedin&logoColor=f4f1ec" height="35"/>
+  </a>
+  <a href="mailto:aashishjaiswal1103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-554239?style=plastic&logo=gmail&logoColor=f4f1ec" height="35"/>
+  </a>
+  <a href="https://leetcode.com/u/aashish-jaiswal/">
+    <img src="https://img.shields.io/badge/LeetCode-684f44?style=plastic&logo=leetcode&logoColor=f4f1ec" height="35"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>"I don't just write code — I design how it should feel."</i>
+</p>
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=blur&height=150&color=0:2d211d,50:554239,100:2d211d&section=footer&reversal=true)
