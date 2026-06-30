@@ -76,11 +76,22 @@ Data Structures & Algorithms, System Design, and the craft of building products 
 
 <br/>
 
+<p align="center"><i>Contribution Graph</i></p>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aashishjaiswal1103&show_icons=true&hide_border=true&hide_title=true&bg_color=2d211d&title_color=d8b4fe&icon_color=cbbba6&text_color=f4f1ec&ring_color=99755d"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishjaiswal1103&layout=compact&hide_border=true&hide_title=true&bg_color=2d211d&title_color=d8b4fe&text_color=f4f1ec&langs_count=8"/>
+  <img src="https://ghchart.rshah.org/99755d/aashishjaiswal1103" width="1200" alt="Aashish's GitHub Contribution Graph" />
 </p>
 
+<br/>
+
+<p align="center"><i>Stats & Languages</i></p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aashishjaiswal1103&hide_border=true&background=2d211d&ring=99755d&fire=d8b4fe&currStreakLabel=f4f1ec&sideLabels=f4f1ec&currStreakNum=f4f1ec&sideNums=f4f1ec&dates=cbbba6&stroke=2d211d"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aashishjaiswal1103&show_icons=true&hide_border=true&hide_title=true&bg_color=2d211d&title_color=d8b4fe&icon_color=cbbba6&text_color=f4f1ec&ring_color=99755d" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishjaiswal1103&layout=compact&hide_border=true&hide_title=true&bg_color=2d211d&title_color=d8b4fe&text_color=f4f1ec&langs_count=8" alt="Top Languages"/>
+</p>
+
+<br/>
+
+<p align="center"><i>Streak</i></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aashishjaiswal1103&hide_border=true&background=2d211d&ring=99755d&fire=d8b4fe&currStreakLabel=f4f1ec&sideLabels=f4f1ec&currStreakNum=f4f1ec&sideNums=f4f1ec&dates=cbbba6&stroke=2d211d" alt="GitHub Streak"/>
 </p>
