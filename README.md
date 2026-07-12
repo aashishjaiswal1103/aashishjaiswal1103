@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=280&text=Aashish&fontSize=90&color=0:2d211d,50:554239,100:2d211d&fontColor=f4f1ec&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Product%20Builder%20%7C%20Fullstack%20%7C%20Designer&descAlignY=62&descAlign=50&descSize=22&stroke=ffffff&strokeWidth=2)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=280&text=Aashish&fontSize=90&color=0:2d211d,50:554239,100:2d211d&fontColor=D1BA96&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Product%20Builder%20%7C%20Fullstack%20%7C%20Designer&descAlignY=62&descAlign=50&descSize=22&stroke=D1BA96&strokeWidth=2)
 <h2 align="center" style="font-family: 'Georgia', serif; letter-spacing: 2px; color: #554239;">SKILLS & TECHNOLOGIES</h2>
 
 <p align="center">
